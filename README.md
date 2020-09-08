@@ -3,5 +3,4 @@
 Output link \
 
 
-
-https://dewoolkaridhish4.github.io/c34-Projec/.
+https://dewoolkaridhish4.github.io/C36-PROJECT/
